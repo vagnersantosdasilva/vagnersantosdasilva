@@ -12,7 +12,7 @@ Atuo como Web Developer desde 2019 seja em empresas ou em projetos freelancer. T
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/angular.svg" alt="Angular" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular />
 </div>
 
 
