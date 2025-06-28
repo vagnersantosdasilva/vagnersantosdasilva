@@ -2,7 +2,7 @@
 ### Olá,sou Vagnner da Silva!
 
 Atuo como Web Developer desde 2019 seja em empresas ou em projetos freelancer. Tenho interesse em assuntos relacionados a Código Limpo, Arquitetura limpa, Aprendizado de máquina, Microsserviços e muito mais ...
-- 🔭 Atualmente eu trabalho com projeto freelancer na área de educação usando Nuxt.JS ...
+- 🔭 Atualmente eu trabalho com projeto freelancer na área de educação usando Angular e Spring Boot ...
 - 🌱 Atualmente estou aprendo arquitetura de microsserviços 
 
 ### Tecnologias que mais utilizo:
@@ -12,7 +12,7 @@ Atuo como Web Developer desde 2019 seja em empresas ou em projetos freelancer. T
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/angular.svg" alt="Angular" />
 </div>
 
 
