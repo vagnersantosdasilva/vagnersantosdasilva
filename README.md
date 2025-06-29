@@ -3,7 +3,7 @@
 
 Atuo como Web Developer desde 2019 seja em empresas ou em projetos freelancer. Tenho interesse em assuntos relacionados a Código Limpo, Arquitetura limpa, Aprendizado de máquina, Microsserviços e muito mais ...
 - 🔭 Atualmente eu trabalho com projeto freelancer na área de educação usando Angular e Spring Boot ...
-- 🌱 Atualmente estou aprendo arquitetura de microsserviços
+- 🌱 Estou aprendo arquitetura de microsserviços
 - 🌱 Também estou me aprofundando em estudos sobre Typescript e Angular
 
 ### Tecnologias que mais utilizo:
